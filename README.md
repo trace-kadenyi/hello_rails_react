@@ -38,12 +38,12 @@ $ http://localhost:3000/
 👤 **Tracey Kadenyi**
 
  GitHub: [@TracK92](https://github.com/TracK92)
-- LinkedIn: [@Tracey Kadenyi](https://www.linkedin.com/in/Tracey-Kadenyi/)
+ LinkedIn: [@Tracey Kadenyi](https://www.linkedin.com/in/Tracey-Kadenyi/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/TracK92/hello_rails_react.git/issues)
+Feel free to check the [issues page](https://github.com/TracK92/hello_rails_react/issues)
 
 ## Show your support
 
