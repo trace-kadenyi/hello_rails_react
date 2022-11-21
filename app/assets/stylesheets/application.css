@@ -14,26 +14,25 @@
  *= require_self
  */
 
-
- .greeting_div {
+.greeting_div {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
- }
+}
 
- .heading {
+.heading {
   color: #0b533d;
   text-decoration: overline;
- }
+}
 
- .list {
+.list {
   list-style-type: none;
- }
+}
 
- .list_item {
+.list_item {
   font-style: italic;
   font-size: 20px;
   color: #0b8556;
- }
+}
